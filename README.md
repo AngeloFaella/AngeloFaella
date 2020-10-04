@@ -1,7 +1,21 @@
-![hader](https://github.com/AngeloFaella/AngeloFaella/blob/master/header%20%E2%80%93%20github.png)
+![hader](GitHub_header.png)
 
-## Hi, I'm Angelo, Software Engineer 👋
-asd
+# Hi, I'm Angelo, Software Engineer 👋
+Lorem ipsum sit dolor amet...
+
+## 🔭 What I’m currently working on
+Lorem ipsum sit dolor amet...
+
+## Latest articles
+Lorem ipsum sit dolor amet...
+
+## 🌱 What's next
+Lorem ipsum sit dolor amet...
+
+## 📫 How to reach me
+Lorem ipsum sit dolor amet...
+
+
 
 <!--
 **AngeloFaella/AngeloFaella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
