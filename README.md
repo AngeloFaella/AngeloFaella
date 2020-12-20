@@ -19,18 +19,17 @@ I'm a Software Engineer from Italy. I mainly deal with Android and Front-end dev
     - OkHttp3 library
     - AWS Lambda (Java, Nodejs)
     
-* [CircularProgressBar.js](https://github.com/AngeloFaella/CircularProgressBar): a simple open source library to create circular progress bars. 
+* [DocumentOutline.js](https://github.com/AngeloFaella/DocumentOutline): a simple open source library that automatically generates the "Table of Contents" of an HTML document. 
 
-  **Some of the main features**:
+  **Main features**:
     - Lightweight
     - No jQuery dependency
-    - Highly customizable
-    - Easy to use
+    - Customizable
+    - Responsive
     
   **Tech stack**:
-    - HTML5
+    - JavaScript (vanilla)
     - CSS3
-    - Vanilla javascript
 
 ## 💬 Latest articles
 I write regular blog posts about tech and programming. You can find them on my Medium profile.
