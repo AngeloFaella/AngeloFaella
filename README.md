@@ -50,7 +50,7 @@ I write regular blog posts about tech and programming. You can find them on my M
 - [LinkedIn](https://www.linkedin.com/in/angelo-faella)
 - [Medium](https://www.medium.com/@AngeloFaella)
 - [Dribbble](https://dribbble.com/angelo_faella)
-- [Twitter](https://twitter.com/AngeloFaella16)
+- [Twitter](https://twitter.com/angelo_faella)
 
 
 
