@@ -34,8 +34,8 @@ I'm a Software Engineer from Italy. I mainly deal with Android and Front-end dev
 ## 💬 Latest articles
 I write regular blog posts about tech and programming. You can find them on my Medium profile.
 
+- "[Bringing Python Lists to JavaScript With Proxy API](https://javascript.plainenglish.io/bringing-python-lists-to-javascript-with-proxy-api-1db8c3e559b4?sk=fa1f6e5d863fc650afc1fbe66ed2f04b) - *How to use JavaScript Proxy API to create a Python-like list object with slicing and negative indexing.*", published in JavaScript In Plain English.
 - "[Choosing The Right Android Layout](https://levelup.gitconnected.com/choosing-the-right-android-layout-8c35fe476b35) - *Three use cases to improve your approach to choosing the right layout.*", published in Level Up Coding.
-- "[5 Things You Can Do As A Developer During Quarantine](https://levelup.gitconnected.com/5-things-you-can-do-as-a-developer-during-quarantine-35aa118c73c8) - *Do not waste this extra time, it’s the only good thing that coronavirus has given you.*", published in Level Up Coding.
 - "[Who Wins The “Serie A” League: Attack Vs Defence](https://towardsdatascience.com/who-wins-the-serie-a-league-attack-vs-defence-a48128e71e22) - *What is more important to win the Serie A league: attack or defence? A data-driven answer.*", published in Towards Data Science.
 - "[7 Lessons I Learned in Two Years of Android Development](https://levelup.gitconnected.com/5-things-you-can-do-as-a-developer-during-quarantine-35aa118c73c8) - *Things I wish I knew when I started Android development.*", published in Better Programming.
 - "[Simple Web Scraping with Python](https://levelup.gitconnected.com/simple-web-scraping-with-python-1692c11e3b1a) - *Learn web scraping in Python by using it to discover deals on Black Friday and alert you with an email.*", published in Level Up Coding.
