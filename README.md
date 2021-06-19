@@ -1,7 +1,7 @@
 ![hader](GitHub_header.png)
 
 # Hi, I'm Angelo, Software Engineer 👋
-I'm a Software Engineer from Italy. I mainly deal with Android and Front-end development. Currently I'm trying to broaden my knowledge about Back-end development, Machine Learning and Data Science. When I'm not developing and building things, you can find me watching TV shows, writing an article, or running with my headphones.
+I'm a Software Engineer from Italy. I mainly deal with Android and Front-end development. Currently I'm trying to broaden my knowledge about Web development, mobile development and Data Science. When I'm not developing and building things, you can find me watching TV shows, writing an article, or running with my headphones.
 
 ## 🔭 What I’m currently working on
 * [Keypify](https://keypify.com): an offline password manager for Android. Get it on [Google Play](https://bit.ly/keypify) 
@@ -19,21 +19,11 @@ I'm a Software Engineer from Italy. I mainly deal with Android and Front-end dev
     - OkHttp3 library
     - AWS Lambda (Java, Nodejs)
     
-* [DocumentOutline.js](https://github.com/AngeloFaella/DocumentOutline): a simple open source library that automatically generates the "Table of Contents" of an HTML document. 
-
-  **Main features**:
-    - Lightweight
-    - No jQuery dependency
-    - Customizable
-    - Responsive
-    
-  **Tech stack**:
-    - JavaScript (vanilla)
-    - CSS3
 
 ## 💬 Latest articles
 I write regular blog posts about tech and programming. You can find them on my Medium profile.
 
+- "[How to Create an Optimized Real-Time Search with React](https://javascript.plainenglish.io/how-to-create-an-optimized-real-time-search-with-react-6dd4026f4fa9?sk=7c53ad0bbc2713ef97856274adf83f2b) - *Learn how to create an optimized real-time search feature with React Hooks using debouncing and memoization techniques*"
 - "[Bringing Python Lists to JavaScript With Proxy API](https://javascript.plainenglish.io/bringing-python-lists-to-javascript-with-proxy-api-1db8c3e559b4?sk=fa1f6e5d863fc650afc1fbe66ed2f04b) - *How to use JavaScript Proxy API to create a Python-like list object with slicing and negative indexing.*", published in JavaScript In Plain English.
 - "[Choosing The Right Android Layout](https://levelup.gitconnected.com/choosing-the-right-android-layout-8c35fe476b35) - *Three use cases to improve your approach to choosing the right layout.*", published in Level Up Coding.
 - "[Who Wins The “Serie A” League: Attack Vs Defence](https://towardsdatascience.com/who-wins-the-serie-a-league-attack-vs-defence-a48128e71e22) - *What is more important to win the Serie A league: attack or defence? A data-driven answer.*", published in Towards Data Science.
