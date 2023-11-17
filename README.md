@@ -2,7 +2,9 @@
 
 # Hi, I'm Angelo 👋
 I'm a Software Engineer who loves to create things and solve problems.
+
 During the last 5 years of working with software, especially in the startup industry, I've gained knowledge and experience in mobile and web development, UI/UX design and system architecture.
+
 I'm actively writing tech articles on Medium, building projects, and sharing my knowledge with the developer community on various social platforms.
 
 Some of my interests:
@@ -24,7 +26,7 @@ Some of my interests:
     
   **Tech stack**:
     - Android Architecture Components (LiveData, ViewModel, Room, ...)
-    - OkHttp3 library
+    - Firebase
     - AWS Lambda (Java, Nodejs)
     
 
