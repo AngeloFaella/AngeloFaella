@@ -1,7 +1,15 @@
 ![hader](GitHub_header.png)
 
-# Hi, I'm Angelo, Software Engineer 👋
-I'm a Software Engineer from Italy. I mainly deal with Android and Front-end development. Currently I'm trying to broaden my knowledge about Web development, mobile development and Data Science. When I'm not developing and building things, you can find me watching TV shows, writing an article, or running with my headphones.
+# Hi, I'm Angelo 👋
+I'm a Software Engineer who loves to create things and solve problems.
+During the last 5 years of working with software, especially in the startup industry, I've gained knowledge and experience in mobile and web development, UI/UX design and system architecture.
+I'm actively writing tech articles on Medium, building projects, and sharing my knowledge with the developer community on various social platforms.
+
+Some of my interests:
+- JavaScript based technologies
+- Data Science
+- Startup industry
+- Photography
 
 ## 🔭 What I’m currently working on
 * [Keypify](https://keypify.com): an offline password manager for Android. Get it on [Google Play](https://bit.ly/keypify) 
